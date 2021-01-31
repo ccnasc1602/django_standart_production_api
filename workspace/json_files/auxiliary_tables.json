@@ -1,0 +1,59 @@
+{"company_type": {
+	"Ltda": "Sociedade Empresária Limitada",
+	"EIRELI": "Empresa Individual de Responsabilidade Limitada",
+	"EI": "Empresa individual",
+	"MEI": "Microempreendedor Indivual",
+	"SS": "Sociedade Simples",
+	"SA": "Sociedade Anônima"
+	},
+ "company_size": {
+	"ME": "Microempresa",
+	"EPP": "Empresa de Pequeno Porte",
+	"EGP": "Empresas de médio e grande porte"
+	},
+"state": {
+	"AC": "Acre",
+	"AL": "Alagoas",
+	"AP": "Amapá",
+	"AM": "Amazonas",
+	"BA": "Bahia",
+	"CE": "Ceará",
+	"DF": "Distrito Federal",
+	"ES": "Espírito Santo",
+	"GO": "Goiás",
+	"MA": "Maranhão",
+	"MT": "Mato Grosso",
+	"MS": "Mato Grosso do Sul",
+	"MG": "Minas Gerais",
+	"PA": "Pará",
+	"PB": "Paraíba",
+	"PR": "Paraná",
+	"PE": "Pernambuco",
+	"PI": "Piauí",
+	"RJ": "Rio de Janeiro",
+	"RS": "Rio Grande do Sul",
+	"RO": "Rondônia",
+	"RR": "Roraima",
+	"SC": "Santa Catarina",
+	"SP": "São Paulo",
+	"SE": "Sergipe",
+	"TO": "Tocantins"
+	},
+ "gender": {
+	"M": "Masculino",
+	"F": "Feminino"
+	},
+ "marital_status": {
+	"1": "Solteiro",
+	"2": "Casado",
+	"3": "Divorciado",
+	"4": "Separado",
+	"5": "Viúvo",
+	"6": "União Estável",
+	"7": "Outro"
+ },
+ "legal_type": {
+	"PF": "Pessoa Física",
+	"PJ": "Pessoa Jurídica"
+ }
+}
